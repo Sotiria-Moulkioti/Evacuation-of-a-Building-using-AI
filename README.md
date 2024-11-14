@@ -1,4 +1,4 @@
-The Problem: Evacuation of a Building
+# The Problem: Evacuation of a Building
 
 This present project aims to actualization the evacuation of the building using techniques of Artificial Intelligence. The techniques of Artificial  Intelligent that are used: BFS, DFS, and heuristic methods.
 	The problem is the evacuation of a building to the rooftop. Specifically, the elevator of a multi-story residential building is set to automatic operation in case evacuation to the rooftop is ordered by the police for any public safety reason.
